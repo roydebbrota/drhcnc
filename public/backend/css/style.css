@@ -1,0 +1,18 @@
+
+.accordion-button:focus {
+    outline: none;
+    box-shadow: none;
+  }
+.accordion-button {
+    background: #f8f9fa;
+    font-weight: 500;
+  }
+.accordion-item{
+    border: none;
+}
+.menu-padding{
+    font-size: 1rem;
+    color: #212529;
+    padding: 1rem 1.25rem;
+}
+
